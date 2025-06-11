@@ -1,0 +1,5 @@
+# requirements.txt
+
+Python >= 3.0
+No external libraries required
+Runs in terminal or command prompt
